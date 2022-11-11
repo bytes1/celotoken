@@ -1,4 +1,4 @@
-# Celo Composer Frontend With erc20 deployer
+# Celo Composer Frontend With ERC20 Token deployer
 
 ## Getting Started
 

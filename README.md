@@ -1,4 +1,4 @@
-# Celo Composer Frontend
+# Celo Composer Frontend With erc20 deployer
 
 ## Getting Started
 
